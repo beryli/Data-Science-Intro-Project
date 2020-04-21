@@ -2,7 +2,6 @@
 Mobile Price Prediction
 
 requirement:
-
  -  beautifulsoup4==4.8.1
  -  numpy==1.17.2
  -  pandas==0.25.1
@@ -10,9 +9,8 @@ requirement:
  -  sklearn==0.0
 
 instructions:
-Directly run "model.py" will get 'output(forest).csv' and 'output(boosting).csv'
-Evaluation result will show on terminal
-
+ -  Directly run "model.py" will get 'output(forest).csv' and 'output(boosting).csv'
+ -  Evaluation result will show on terminal
 
 remark:
 1. Run "url.py" will generate "rawData.xlsx"
