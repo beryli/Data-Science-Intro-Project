@@ -1,0 +1,602 @@
+,0Price,1Name,1Brand,1Brand,2CPU,3RAM,4ROM,5Battery,6FrontCamera,7RearCamera,8Display,9SIM,10OSver,11AndroidiOS
+0,10990, vivo U20 ,vivo,27,Qualcomm Snapdragon 675 ,4,64,5000,3,1,6.53,2,9,1
+1,9999, Xiaomi Redmi Note 8 ,Xiaomi,28,Qualcomm Snapdragon 665,4,64,4000,4,1,6.3,2,9,1
+2,29644, realme X2 Pro ,realme,24,Qualcomm Snapdragon 855 Plus,8,128,4000,4,1,6.5,2,9,1
+3,9999, realme 5s ,realme,24,Qualcomm Snapdragon 665,4,64,5000,2,1,6.5,2,9,1
+4,10650, Xiaomi Redmi Note 7 Pro ,Xiaomi,28,Qualcomm Snapdragon 675,4,64,4000,2,1,6.3,2,9,1
+5,16520, Samsung Galaxy A50 ,Samsung,25,Exynos 9610,4,64,4000,3,1,6.4,2,9,1
+6,14999, Xiaomi Redmi Note 8 Pro ,Xiaomi,28,Mediatek Helio G90T,6,64,4500,4,1,6.53,2,9,1
+7,8521, Xiaomi Redmi 8 ,Xiaomi,28,Qualcomm Snapdragon 439,4,64,5000,2,1,6.22,2,9,1
+8,12998, realme 5 Pro ,realme,24,Qualcomm Snapdragon 712,4,64,4035,4,1,6.3,2,9,1
+9,15490, vivo S1 ,vivo,27,Mediatek Helio P65 ,4,128,4500,3,1,6.38,2,9,1
+10,8490, vivo Y91 ,vivo,27,Qualcomm Snapdragon 439,2,32,4030,2,1,6.22,2,8,1
+11,8990, realme 5 ,realme,24,Qualcomm Snapdragon 665,3,32,5000,4,1,6.5,2,9,1
+12,13999, Samsung Galaxy M30s ,Samsung,25,Exynos 9611,4,64,6000,3,1,6.4,2,9,1
+13,13990, vivo Z1 Pro ,vivo,27,Qualcomm Snapdragon 712,4,64,5000,3,1,6.53,2,9,1
+14,15980, realme XT ,realme,24,Qualcomm Snapdragon 712,4,64,4000,4,1,6.4,2,9,1
+15,13990, Samsung Galaxy A30 ,Samsung,25,Exynos 7904,4,64,4000,2,1,6.4,2,9,1
+16,13890, vivo Y19 ,vivo,27,Mediatek Helio P65 ,4,128,5000,3,1,6.53,2,9,1
+17,25950, vivo V17 Pro ,vivo,27,Qualcomm Snapdragon 675,8,128,4100,4,2,6.44,2,9,1
+18,8490, OPPO A5s ,OPPO,21,Mediatek Helio P35,2,32,4230,2,1,6.2,2,8,1
+19,9999, realme 3 Pro ,realme,24,Qualcomm Snapdragon 710,4,64,4045,2,1,6.3,2,9,1
+20,30948, OnePlus 7 ,OnePlus,20,Qualcomm Snapdragon 855,6,128,3700,2,1,6.41,2,9,1
+21,39999, OnePlus 7 Pro ,OnePlus,20,Qualcomm Snapdragon 855,6,128,4000,3,1,6.67,2,9,1
+22,8990, vivo U10 ,vivo,27,Qualcomm Snapdragon 665,3,32,5000,2,1,6.35,2,9,1
+23,17999, Samsung Galaxy A50S ,Samsung,25,Exynos 9611,4,128,4000,3,1,6.4,2,9,1
+24,6499, Xiaomi Redmi 8A ,Xiaomi,28,Qualcomm Snapdragon 439,2,32,5000,1,1,6.2,2,9,1
+25,53999, OnePlus 7T Pro ,OnePlus,20,Qualcomm Snapdragon 855 Plus,8,256,4085,3,1,6.67,2,10,1
+26,34990, OnePlus 7T ,OnePlus,20,Qualcomm Snapdragon 855 Plus,8,128,3800,3,1,6.55,2,10,1
+27,15990, OPPO F11 Pro ,OPPO,21,Mediatek Helio P70 ,6,64,4000,2,1,6.53,2,9,1
+28,5795, realme C2 ,realme,24,Mediatek Helio P22,2,16,4000,2,1,6.1,2,9,1
+29,11499, vivo Y12 ,vivo,27,Mediatek Helio P22,4,32,5000,3,1,6.35,2,9,1
+30,13790, OPPO A5 2020 4GB RAM ,OPPO,21,Qualcomm Snapdragon 665,4,64,5000,4,1,6.5,2,9,1
+31,12499, Samsung Galaxy M30 ,Samsung,25,Exynos 7904,4,64,5000,3,1,6.4,2,9,1
+32,7990, Samsung Galaxy A10 ,Samsung,25,Exynos 7884,2,32,3400,1,1,6.2,2,9,1
+33,109894, Apple iPhone 11 Pro Max ,Apple,3,Apple A13 Bionic,4,64,3969,3,1,6.5,2,13,2
+34,17490, vivo V15 ,vivo,27,Mediatek Helio P70,6,64,4000,3,1,6.53,2,9,1
+35,5299, Xiaomi Redmi 7A ,Xiaomi,28,Qualcomm Snapdragon 439,2,16,4000,1,1,5.45,2,9,1
+36,16807, realme X ,realme,24,Qualcomm Snapdragon 710,4,128,3765,2,1,6.53,2,9,1
+37,7999, Xiaomi Redmi Y3 ,Xiaomi,28,Qualcomm Snapdragon 632,3,32,4000,2,1,6.26,2,9,1
+38,19000, vivo V15 Pro ,vivo,27,Qualcomm Snapdragon 675,6,128,3700,3,1,6.39,2,9,1
+39,15990, vivo Z1x ,vivo,27,Qualcomm Snapdragon 712,6,64,4500,3,1,6.38,2,9,1
+40,12366, Xiaomi Mi A3 ,Xiaomi,28,Qualcomm Snapdragon 665,4,64,4030,3,1,6,2,9,1
+41,15999, Nokia 7.2 ,Nokia,18,Qualcomm Snapdragon 660,4,64,3500,3,1,6.3,2,9,1
+42,23500, OPPO Reno 2F ,OPPO,21,Mediatek Helio P70 ,8,128,4000,4,1,6.5,2,9,1
+43,69999, Samsung Galaxy Note 10 ,Samsung,25,Exynos 9825,8,256,3500,3,1,6.3,2,9,1
+44,36591, OPPO Reno 2 ,OPPO,21,Qualcomm Snapdragon 730G,8,256,4000,4,1,6.5,2,9,1
+45,5990, OPPO A3s ,OPPO,21,Qualcomm Snapdragon 450,2,16,4230,2,1,6.2,2,8,1
+46,24990, OPPO Reno 2Z ,OPPO,21,Mediatek Helio P90,8,256,4000,4,1,6.5,2,9,1
+47,12990, OPPO F11 ,OPPO,21,Mediatek Helio P70 ,4,128,4020,2,1,6.53,2,9,1
+48,24900, Samsung Galaxy A70 ,Samsung,25,Qualcomm Snapdragon 675,6,128,4500,3,1,6.7,2,9,1
+49,46669, Apple iPhone XR ,Apple,3,Apple A12 Bionic,3,64,2942,1,1,6.1,2,12,2
+50,13990, vivo Y17 ,vivo,27,Mediatek Helio P35,4,128,5000,3,1,6.35,2,9,1
+51,15999, Samsung Galaxy A30s ,Samsung,25,Exynos 7904,4,64,4000,3,1,6.4,2,9,1
+52,37100, Apple iPhone 7 Plus ,Apple,3,Apple A10 Fusion,3,32,2900,2,1,5.5,1,10,2
+53,10490, Samsung Galaxy A20 ,Samsung,25,Exynos 7884,3,32,4000,2,1,6.4,1,9,1
+54,8999, realme 2 Pro ,realme,24,Qualcomm Snapdragon 660,4,64,3500,2,1,6.3,2,8,1
+55,7999, realme 2 ,realme,24,Qualcomm Snapdragon 450,3,32,4230,2,1,6.2,2,8,1
+56,7249, Xiaomi Redmi Note 4 ,Xiaomi,28,Qualcomm Snapdragon 625,3,32,4100,1,1,5.5,2,6,1
+57,36999, Apple iPhone 8 ,Apple,3,Apple A11 Bionic,2,64,1821,1,1,4.7,1,11,2
+58,9999, Xiaomi Redmi Note 7S ,Xiaomi,28,Qualcomm Snapdragon 660,4,64,4000,2,1,6.3,2,9,1
+59,18399, OPPO A9 2020 ,OPPO,21,Qualcomm Snapdragon 665,8,128,5000,4,1,6.5,2,9,1
+60,61900, Samsung Galaxy S10 ,Samsung,25,Exynos 9820,8,128,3400,3,1,6.1,2,9,1
+61,7394, Xiaomi Redmi 7 ,Xiaomi,28,Qualcomm Snapdragon 632,2,32,4000,2,1,6.26,2,9,1
+62,8299, realme 3 ,realme,24,Mediatek Helio P70,3,64,4230,2,1,6.2,2,9,1
+63,69900, Samsung Galaxy S10 Plus ,Samsung,25,Exynos 9820,6,128,4100,3,2,6.4,2,9,1
+64,10990, vivo Y93 ,vivo,27,Mediatek Helio P22,4,32,4030,2,1,6.2,2,8,1
+65,28000, Samsung Galaxy A80 ,Samsung,25,Qualcomm Snapdragon 730G,8,128,3700,2,2,6.7,2,9,1
+66,9990, Samsung Galaxy M20 ,Samsung,25,Exynos 7904,3,32,5000,2,1,6.3,2,8,1
+67,39975, Apple iPhone 6s Plus ,Apple,3,Apple A9,2,16,2750,1,1,5.5,1,9,2
+68,11990, vivo Y95 ,vivo,27,Qualcomm Snapdragon 439,4,64,4030,2,1,6.22,2,8,1
+69,11990, Samsung Galaxy A20s ,Samsung,25,Qualcomm Snapdragon 450,3,32,4000,3,1,6.5,2,9,1
+70,15990, OPPO K3 ,OPPO,21,Qualcomm Snapdragon 710,6,64,3765,2,1,6.5,2,9,1
+71,13499, OPPO F9 ,OPPO,21,Mediatek Helio P60,4,64,3500,2,1,6.3,2,8,1
+72,38206, Samsung Galaxy Note 9 ,Samsung,25,Exynos 9810,6,128,4000,2,1,6.4,2,8,1
+73,19857, Xiaomi Redmi K20 ,Xiaomi,28,Qualcomm Snapdragon 730,6,64,4000,3,1,6.39,2,9,1
+74,79999, Samsung Galaxy Note 10 Plus ,Samsung,25,Exynos 9825,12,256,4300,3,1,6.8,2,9,1
+75,8499, Samsung Galaxy A10s ,Samsung,25,Mediatek Helio P22,2,32,4000,2,1,6.2,2,9,1
+76,7990, Samsung Galaxy M10 ,Samsung,25,Exynos 7870,2,16,3400,2,1,6.22,2,8,1
+77,64990, Huawei P30 Pro ,Huawei,12,HiSilicon Kirin 980,8,256,4200,4,1,6.1,2,9,1
+78,9631, Xiaomi Redmi Note 5 Pro ,Xiaomi,28,Qualcomm Snapdragon 636,4,64,4000,2,1,5.99,2,7,1
+79,15990, vivo V11 Pro ,vivo,27,Qualcomm Snapdragon 660,6,64,3400,2,1,6.41,2,8,1
+80,25999, Xiaomi Redmi K20 Pro ,Xiaomi,28,Qualcomm Snapdragon 855,6,128,4000,3,1,6.39,2,9,1
+81,39990, Samsung Galaxy Note 8 ,Samsung,25,Exynos 8895,6,64,3300,2,1,6.3,2,7,1
+82,14990, OPPO F9 Pro ,OPPO,21,Mediatek Helio P60,6,64,3500,2,1,6.3,2,8,1
+83,30999, OnePlus 6T ,OnePlus,20,Qualcomm Snapdragon 845,6,128,3700,2,1,6.41,2,8,1
+84,8990, OPPO A5 ,OPPO,21,Qualcomm Snapdragon 450,4,32,4230,2,1,6.2,2,8,1
+85,14599, Xiaomi Poco F1 ,Xiaomi,28,Qualcomm Snapdragon 845,6,64,4000,2,1,6.18,2,8,1
+86,9990, OPPO A7 ,OPPO,21,Qualcomm Snapdragon 450,4,64,4230,2,1,6.2,2,8,1
+87,13999, Motorola Moto G8 Plus ,Motorola,17,Qualcomm Snapdragon 665,4,64,4000,3,1,6.3,2,9,1
+88,11990, vivo Y15 (2019) ,vivo,27,Mediatek Helio P22,4,64,5000,3,1,6.35,2,9,1
+89,9099, Xiaomi Redmi Note 6 Pro ,Xiaomi,28,Qualcomm Snapdragon 636,4,64,4000,2,2,6.26,2,8,1
+90,37999, ASUS ROG Phone 2 ,ASUS,4,Qualcomm Snapdragon 855 Plus,8,128,6000,2,1,6.59,2,9,1
+91,8348, Xiaomi Redmi Y2 ,Xiaomi,28,Qualcomm Snapdragon 625,3,32,3080,2,1,5.99,2,8,1
+92,13470, Nokia 6.2 ,Nokia,18,Qualcomm Snapdragon 636,4,64,3500,3,1,6.39,2,9,1
+93,8240, Xiaomi Redmi 6 Pro ,Xiaomi,28,Qualcomm Snapdragon 625,3,32,4000,2,1,5.84,2,8,1
+94,32990, OPPO Reno ,OPPO,21,Qualcomm Snapdragon 710,8,128,3765,2,1,6.4,2,9,1
+95,5999, Xiaomi Redmi 5A ,Xiaomi,28,Qualcomm Snapdragon 425,2,16,3000,1,1,5,2,7,1
+96,27999, Apple iPhone 7 ,Apple,3,Apple A10 Fusion,2,32,1960,1,1,4.7,1,10,2
+97,17999, Samsung Galaxy M40 ,Samsung,25,Qualcomm Snapdragon 675,6,128,3500,3,1,6.3,2,9,1
+98,11990, OPPO A9 ,OPPO,21,Mediatek Helio P70,4,128,4020,2,1,6.5,2,9,1
+99,13990, OPPO K1 ,OPPO,21,Qualcomm Snapdragon 660 ,4,64,3500,2,1,6.4,2,8,1
+100,6990, vivo Y91i ,vivo,27,Mediatek Helio P22,2,16,4030,1,1,6.22,2,8,1
+101,31990, Samsung Galaxy S8 ,Samsung,25,Exynos 8895,4,64,3000,1,1,5.8,2,7,1
+102,9499, Xiaomi Redmi Note 7 ,Xiaomi,28,Qualcomm Snapdragon 660,3,32,4000,2,1,6.3,2,9,1
+103,35320, Samsung Galaxy S9 Plus ,Samsung,25,Exynos 9810,6,64,3500,2,1,6.2,2,8,1
+104,67999, Apple iPhone X ,Apple,3,Apple A11 Bionic,3,64,2716,2,1,5.8,1,11,2
+105,9790, vivo Y81 ,vivo,27,Mediatek Helio P22,3,32,3260,1,1,6.22,2,8,1
+106,16900, Samsung Galaxy J7 Pro ,Samsung,25,Exynos 7870,3,64,3600,1,1,5.5,2,7,1
+107,10180, Samsung Galaxy J6 ,Samsung,25,Exynos 7870,3,32,3000,1,1,5.6,2,8,1
+108,11046, Samsung Galaxy J7 Max ,Samsung,25,Mediatek Helio P20,4,32,3300,1,1,5.7,2,7,1
+109,6399, vivo Y90 ,vivo,27,Mediatek Helio A22,2,16,4030,1,1,6.22,2,8,1
+110,5399, Xiaomi Redmi 6A ,Xiaomi,28,Mediatek Helio A22,2,16,3000,1,1,5.45,2,8,1
+111,7679, realme 3i ,realme,24,Mediatek Helio P60,3,32,4230,2,1,6.22,2,9,1
+112,25999, Samsung Galaxy A70s ,Samsung,25,Qualcomm Snapdragon 675,6,128,4500,3,1,6.7,2,9,1
+113,13130, Samsung Galaxy J8 ,Samsung,25,Qualcomm Snapdragon 450,4,64,3500,2,1,6,2,8,1
+114,41749, Apple iPhone 6 ,Apple,3,Apple A8,1,16,1810,1,1,4.7,1,8,2
+115,8990, Nokia 6.1 Plus ,Nokia,18,Qualcomm Snapdragon 636,4,64,3060,2,1,5.8,2,8,1
+116,7599, OPPO A37 ,OPPO,21,Qualcomm Snapdragon 410,2,16,2630,1,1,5,2,5,1
+117,53990, Apple iPhone 6S ,Apple,3,Apple A9,2,16,1715,1,1,4.7,1,9,2
+118,6999, Nokia 5.1 Plus ,Nokia,18,Mediatek Helio P60,3,32,3060,2,1,5.86,2,8,1
+119,6899, Xiaomi Redmi 5 ,Xiaomi,28,Qualcomm Snapdragon 450,2,16,3300,1,1,5.7,2,7,1
+120,12999, vivo V9 ,vivo,27,Qualcomm Snapdragon 626,4,64,3260,2,1,6.3,2,8,1
+121,8699, Xiaomi Mi A2 ,Xiaomi,28,Qualcomm Snapdragon 660,4,64,3000,2,1,5.99,2,8,1
+122,8599, OPPO A37f ,OPPO,21,Qualcomm Snapdragon 410,2,16,2630,1,1,5,2,5,1
+123,9950, Huawei Honor 8X ,Huawei,12,HiSilicon Kirin 710,4,64,3750,2,1,6.5,2,8,1
+124,10999, Honor 20i ,Honor,10,HiSilicon Kirin 710 ,4,128,3750,3,1,6.21,2,9,1
+125,8499, Samsung Galaxy M10s ,Samsung,25,Exynos 7884,3,32,4000,2,1,6.4,2,9,1
+126,6945, Nokia 3.1 Plus ,Nokia,18,Mediatek Helio P22,3,32,3500,2,1,6,2,8,1
+127,48900, Apple iPhone 8 Plus ,Apple,3,Apple A11 Bionic,3,64,2691,2,1,5.5,1,11,2
+128,34999, OnePlus 6 ,OnePlus,20,Qualcomm Snapdragon 845,6,64,3300,2,1,6.28,2,8,1
+129,11017, Nokia 7.1 ,Nokia,18,Qualcomm Snapdragon 636,4,64,3060,2,1,5.84,2,8,1
+130,14990, vivo V9 Pro ,vivo,27,Qualcomm Snapdragon 660 ,6,64,3260,2,1,6.3,2,8,1
+131,6999, Motorola Moto E6s ,Motorola,17,Mediatek Helio P22,4,64,3000,2,1,6.1,2,9,1
+132,8490, Samsung Galaxy J4 Plus ,Samsung,25,Qualcomm Snapdragon 425,2,32,3300,1,1,6,2,8,1
+133,29999, Samsung Galaxy S9 ,Samsung,25,Exynos 9810,4,64,3000,1,1,5.8,2,8,1
+134,14990, vivo V11 ,vivo,27,Qualcomm Snapdragon 660,6,64,3400,2,1,6.3,2,8,1
+135,7490, Nokia 3.2 ,Nokia,18,Qualcomm Snapdragon 429,3,32,4000,1,1,6.26,2,9,1
+136,14099, Samsung Galaxy A7 (2018) ,Samsung,25,Exynos 7885,4,64,3300,3,1,6,2,8,1
+137,88799, Huawei Mate 30 Pro ,Huawei,12,HiSilicon Kirin 990,8,128,4500,3,1,6.53,2,10,1
+138,10490, Huawei Honor 10 Lite ,Huawei,12,HiSilicon Kirin 710,4,64,3400,2,1,6.21,2,9,1
+139,14479, Nokia 8.1 ,Nokia,18,Qualcomm Snapdragon 710,4,64,3500,2,1,6.09,2,9,1
+140,37299, Samsung Galaxy S6 Edge ,Samsung,25,Exynos 7420,3,32,2600,1,1,5.1,1,5,1
+141,12999, OPPO F7 ,OPPO,21,Mediatek Helio P60,4,64,3400,1,1,6.23,2,8,1
+142,7250, Xiaomi Redmi 6 ,Xiaomi,28,Mediatek Helio P22,3,32,3000,2,1,5.45,2,8,1
+143,10999, Samsung Galaxy J7 Prime ,Samsung,25,Exynos 7870,3,16,3300,1,1,5.5,2,6,1
+144,10399, Xiaomi Mi A1 ,Xiaomi,28,Qualcomm Snapdragon 625,4,64,3080,2,1,5.5,2,7,1
+145,7798, Xiaomi Redmi Note 5 ,Xiaomi,28,Qualcomm Snapdragon 625,3,32,4000,1,1,5.99,2,7,1
+146,7999, realme U1 ,realme,24,Mediatek Helio P70,3,32,3500,2,1,6.3,2,8,1
+147,23900, Samsung Galaxy A9 (2018) ,Samsung,25,Qualcomm Snapdragon 660,6,128,3800,4,1,6.3,2,8,1
+148,11345, OPPO F5 ,OPPO,21,Mediatek Helio P23,4,32,3200,1,1,6,2,7,1
+149,7999, Huawei Honor 9N ,Huawei,12,HiSilicon Kirin 659,3,32,3000,2,1,5.84,2,8,1
+150,74999, Apple iPhone Xs Max ,Apple,3,Apple A12 Bionic,4,64,3174,2,1,6.5,2,12,2
+151,8899, Huawei Honor 9 Lite ,Huawei,12,HiSilicon Kirin 659,3,32,3000,2,2,5.65,2,8,1
+152,7899, realme C1 (2019) ,realme,24,Qualcomm Snapdragon 450,3,32,4230,2,1,6.2,2,8,1
+153,11990, vivo V7 ,vivo,27,Qualcomm Snapdragon 450,4,32,3000,1,1,5.7,2,7,1
+154,64999, Apple iPhone XS ,Apple,3,Apple A12 Bionic,4,64,2658,2,1,5.8,2,12,2
+155,7999, OPPO A83 ,OPPO,21,Mediatek Helio P23,3,32,3180,1,1,5.7,2,7,1
+156,7777, Lenovo K8 Note ,Lenovo,15,Mediatek Helio X23,3,32,4000,2,1,5.5,2,7,1
+157,7300, OPPO A71 ,OPPO,21,Mediatek MT6750,3,16,3000,1,1,5.2,2,7,1
+158,29999, Lenovo Z6 Pro ,Lenovo,14,Qualcomm Snapdragon 855,6,128,4000,2,1,6.39,2,9,1
+159,6999, Lenovo K8 Plus ,Lenovo,14,Mediatek Helio P25,3,32,4000,2,1,5.2,2,7,1
+160,27999, ASUS 6Z ,ASUS,4,Qualcomm Snapdragon 855,6,64,5000,2,2,6.4,2,9,1
+161,36990, OPPO Reno 10x Zoom ,OPPO,21,Qualcomm Snapdragon 855,6,128,4065,3,1,6.6,2,9,1
+162,7999, Huawei Honor 9i ,Huawei,12,HiSilicon Kirin 659,4,64,3340,2,2,5.9,2,7,1
+163,24999, Honor 20 ,Honor,10,HiSilicon Kirin 980,6,128,3750,4,1,6.26,2,9,1
+164,10700, vivo Y55s ,vivo,27,Qualcomm Snapdragon 425,3,16,2730,1,1,5.2,2,6,1
+165,12000, OPPO A57 ,OPPO,21,Qualcomm Snapdragon 435,3,32,2900,1,1,5.2,2,6,1
+167,39900, Samsung Galaxy S8 Plus ,Samsung,25,Exynos 8895,4,64,3500,1,1,6.2,2,7,1
+168,6999, realme C1 ,realme,24,Qualcomm Snapdragon 450,2,16,4230,2,1,6.2,2,8,1
+169,7999, Infinix S4 ,Infinix,13,Mediatek Helio P22,3,32,4000,3,1,6.21,2,9,1
+170,6999, Nokia 4.2 ,Nokia,18,Qualcomm Snapdragon 439,3,32,3000,1,1,5.71,2,9,1
+171,8490, Xiaomi Redmi Y1 ,Xiaomi,28,Qualcomm Snapdragon 435,3,32,3080,1,1,5.5,2,7,1
+172,10990, Samsung Galaxy J7 Nxt ,Samsung,25,Exynos 7580,2,16,3000,1,1,5.5,2,7,1
+173,7999, Huawei Honor 8C ,Huawei,12,Qualcomm Snapdragon 632,4,32,4000,2,1,6.26,2,8,1
+174,42999, Google Pixel 3 ,Google,9,Qualcomm Snapdragon 845,4,64,2915,1,2,5.5,2,8,1
+175,14990, vivo V7 Plus ,vivo,27,Qualcomm Snapdragon 450,4,64,3225,1,1,5.99,2,7,1
+176,8490, vivo Y53 ,vivo,27,Qualcomm Snapdragon 425,2,16,2500,1,1,5,2,6,1
+177,49998, Nokia 9 ,Nokia,18,Qualcomm Snapdragon 845,6,128,3320,5,1,5.99,2,9,1
+178,11890, vivo Y83 Pro ,vivo,27,Mediatek Helio P22,4,64,3260,2,1,6.22,2,8,1
+179,15499, Huawei Y9 Prime (2019) ,Huawei,12,HiSilicon Kirin 710,4,128,4000,3,1,6.59,2,9,1
+180,7999, Huawei Honor 7A ,Huawei,12,Qualcomm Snapdragon 430,3,32,3000,2,1,5.7,2,8,1
+181,13949, Samsung Galaxy A8 Plus ,Samsung,25,Exynos 7885,6,64,3500,1,2,6,2,7,1
+182,4549, Nokia 2.1 ,Nokia,18,Qualcomm Snapdragon 425,1,8,4000,1,1,5.5,2,8,1
+183,15000, OPPO F3 ,OPPO,21,Mediatek MT6750T,4,64,3200,1,2,5.5,2,6,1
+184,5999, Huawei Honor 7S ,Huawei,12,Mediatek MT6739,2,16,3020,1,1,5.45,2,8,1
+185,7000, vivo Y81i ,vivo,27,Mediatek Helio A22,2,16,3260,1,1,6.22,2,8,1
+186,39499, Samsung Galaxy S7 Edge ,Samsung,25,Exynos 8890,4,32,3600,1,1,5.5,2,6,1
+187,15400, Samsung Galaxy A6 Plus ,Samsung,25,Qualcomm Snapdragon 450,4,64,3500,2,1,6,2,8,1
+188,4299, Xiaomi Redmi Go ,Xiaomi,28,Qualcomm Snapdragon 425 ,1,8,3000,1,1,5,2,8,1
+189,5999, Infinix Smart 3 Plus ,Infinix,13,Mediatek Helio A22,2,32,3500,2,1,6.21,2,9,1
+190,12994, Google Pixel 2 XL ,Google,9,Qualcomm Snapdragon 835,4,64,3520,1,1,6,1,8,1
+191,18099, OPPO R15 Pro ,OPPO,21,Qualcomm Snapdragon 660,6,128,3430,2,1,6.28,2,8,1
+192,7499, ASUS Zenfone Max Pro (M1) ,ASUS,4,Qualcomm Snapdragon 636,3,32,5000,2,1,5.99,2,8,1
+193,9999, Motorola Moto E5 Plus ,Motorola,17,Qualcomm Snapdragon 430,3,32,5000,1,1,6,2,8,1
+194,8428, Motorola Moto E4 Plus ,Motorola,17,Mediatek MT6737,3,32,5000,1,1,5.5,2,7,1
+195,11300, vivo Y69 ,vivo,27,Mediatek MT6750,3,32,3000,1,1,5.5,2,7,1
+196,9999, Motorola Moto X4 ,Motorola,17,Qualcomm Snapdragon 630,3,32,3000,2,1,5.2,2,7,1
+197,6999, Nokia 5 ,Nokia,18,Qualcomm Snapdragon 430,2,16,3000,1,1,5.2,2,7,1
+198,7499, Huawei Honor 7C ,Huawei,12,Qualcomm Snapdragon 450,3,32,3000,2,1,5.99,2,8,1
+199,31990, vivo NEX ,vivo,27,Qualcomm Snapdragon 845,8,128,4000,2,1,6.59,2,8,1
+200,10999, Motorola One Action ,Motorola,17,Exynos 9609,4,128,3500,3,1,6.3,2,9,1
+201,5794, Nokia 3 ,Nokia,18,Mediatek MT6737,2,16,2630,1,1,5,2,7,1
+202,4300, Nokia 1 ,Nokia,18,Mediatek MT6737M,1,8,2150,1,1,4.5,2,8,1
+203,8450, Nokia 5.1 ,Nokia,18,Mediatek Helio P18,3,32,2970,1,1,5.5,2,8,1
+204,7007, Nokia 2 ,Nokia,18,Qualcomm Snapdragon 212,1,8,4100,1,1,5,2,7,1
+205,7200, Motorola Moto E5 ,Motorola,17,Qualcomm Snapdragon 425,2,16,4000,1,1,5.7,2,8,1
+206,9879, Motorola Moto G6 ,Motorola,17,Qualcomm Snapdragon 450,3,32,3000,2,1,5.7,2,8,1
+207,9999, Lenovo K10 Note ,Lenovo,14,Qualcomm Snapdragon 710,4,64,4050,3,1,6.3,2,9,1
+208,23780, Samsung Galaxy A8 Star ,Samsung,25,Qualcomm Snapdragon 660,6,64,3700,2,1,6.3,2,8,1
+209,11700, vivo V9 Youth ,vivo,27,Qualcomm Snapdragon 450,4,32,3260,2,1,6.3,2,8,1
+210,12499, Huawei Honor 7X 32GB ,Huawei,12,HiSilicon Kirin 659,4,32,3340,2,1,5.93,2,7,1
+211,7999, Infinix Hot 7 ,Infinix,13,Mediatek MT6580,4,64,4000,2,1,6.2,2,8,1
+212,6666, Nokia 3.1 ,Nokia,18,Mediatek MT6750,2,16,2990,1,1,5.2,2,8,1
+213,8888, Motorola Moto G6 Play ,Motorola,17,Qualcomm Snapdragon 430,3,32,4000,1,1,5.7,2,8,1
+214,64899, Apple iPhone 11 ,Apple,3,Apple A13 Bionic,4,64,3110,2,1,6.1,2,13,2
+215,98900, Apple iPhone 11 Pro ,Apple,3,Apple A13 Bionic,4,64,3046,3,1,5.8,2,13,2
+216,13999, Motorola Moto Z2 Play ,Motorola,17,Qualcomm Snapdragon 626,4,64,3000,1,1,5.5,2,7,1
+217,33999, Nubia Red Magic 3 ,Nubia,19,Qualcomm Snapdragon 855,8,128,5000,1,1,6.6,2,9,1
+218,7119, LG Q6 ,LG,15,Qualcomm Snapdragon 435,3,32,3000,1,1,5.5,2,7,1
+220,12999, Motorola Moto G6 Plus ,Motorola,17,Qualcomm Snapdragon 636,6,64,3500,2,1,5.93,2,8,1
+221,8199, ASUS Zenfone 3 Max ,ASUS,4,Mediatek MT6737M,3,32,4100,1,1,5.2,2,6,1
+222,5999, ASUS Zenfone Max M1 ,ASUS,4,Qualcomm Snapdragon 430,3,32,4000,1,1,5.45,2,8,1
+223,9490, Nokia 6.1 ,Nokia,18,Qualcomm Snapdragon 630,3,32,3000,1,1,5.5,2,8,1
+224,22500, vivo V17 ,vivo,27,Qualcomm Snapdragon 675,8,128,4500,4,1,6.44,2,9,1
+225,7999, Infinix S5 Lite ,Infinix,13,Mediatek Helio P22,4,64,4000,2,1,6.6,2,9,1
+226,22649, Apple iPhone 6S 32GB ,Apple,3,Apple A9,2,32,1715,1,1,4.7,1,9,2
+227,9390, Xiaomi Redmi 6 Pro 64GB ,Xiaomi,28,Qualcomm Snapdragon 625,4,64,4000,2,1,5.84,2,8,1
+228,21999, Apple iPhone 6 32GB ,Apple,3,Apple A8,1,32,1810,1,1,4.7,1,8,2
+229,8800, Xiaomi Redmi Y2 64GB ,Xiaomi,28,Qualcomm Snapdragon 625,4,64,3080,2,1,5.99,2,8,1
+230,10378, Xiaomi Redmi Note 5 Pro 6GB RAM ,Xiaomi,28,Qualcomm Snapdragon 636,6,64,4000,2,1,5.99,2,7,1
+231,5290, Xiaomi Redmi 6A 32GB ,Xiaomi,28,Mediatek Helio A22,2,32,3000,1,1,5.45,2,8,1
+232,8578, Lenovo K8 Note 64GB ,Lenovo,14,Mediatek Helio X23,4,64,4000,2,1,5.5,2,7,1
+233,10399, Xiaomi Redmi Note 6 Pro 6GB RAM ,Xiaomi,28,Qualcomm Snapdragon 636,6,64,4000,2,2,6.26,2,8,1
+234,9349, Xiaomi Redmi Note 4 64GB ,Xiaomi,28,Qualcomm Snapdragon 625,4,64,4100,1,1,5.5,2,6,1
+235,10199, Xiaomi Mi A2 128GB ,Xiaomi,28,Qualcomm Snapdragon 660 ,6,128,3000,2,1,5.99,2,8,1
+236,9988, Xiaomi Redmi Note 7 64GB ,Xiaomi,28,Qualcomm Snapdragon 660,4,64,4000,2,1,6.3,2,9,1
+237,7999, realme 3 32GB ,realme,24,Mediatek Helio P70,3,32,4230,2,1,6.2,2,9,1
+238,72900, Apple iPhone X 256GB ,Apple,3,Apple A11 Bionic,3,256,2716,2,1,5.8,1,11,2
+239,59900, Apple iPhone 7 Plus 128GB ,Apple,3,Apple A10 Fusion,3,128,2900,2,1,5.5,1,10,2
+240,10149, realme U1 64GB ,realme,24,Mediatek Helio P70,4,64,3500,2,1,6.3,2,8,1
+241,9965, Huawei Honor 9 Lite 64GB ,Huawei,12,HiSilicon Kirin 659,4,64,3000,2,2,5.65,2,8,1
+242,14990, Huawei Honor 8X 128GB ,Huawei,12,HiSilicon Kirin 710,6,128,3750,2,1,6.5,2,8,1
+243,9249, Gionee M7 Power ,Gionee,8,Qualcomm Snapdragon 435,4,64,5000,1,1,6,2,7,1
+244,9230, Huawei Honor 7C 64GB ,Huawei,12,Qualcomm Snapdragon 450,4,64,3000,2,1,5.99,2,8,1
+245,8499, Huawei Honor 9N 64GB ,Huawei,12,HiSilicon Kirin 659,4,64,3000,2,1,5.84,2,8,1
+246,11990, vivo V5 ,vivo,27,Mediatek MT6750,4,32,3000,1,1,5.5,2,6,1
+247,13990, vivo V9 Pro 4GB RAM ,vivo,27,Qualcomm Snapdragon 660 ,4,64,3260,2,1,6.3,2,8,1
+248,63399, Apple iPhone XR 256GB ,Apple,3,Apple A12 Bionic,3,256,2942,1,1,6.1,2,12,2
+249,4999, Gionee A1 Lite ,Gionee,8,Mediatek MT6753,3,32,4000,1,1,5.3,2,7,1
+250,12996, Motorola Moto X4 6GB RAM ,Motorola,17,Qualcomm Snapdragon 630,6,64,3000,2,1,5.2,2,8,1
+251,51799, Apple iPhone XR 128GB ,Apple,3,Apple A12 Bionic,3,128,2942,1,1,6.1,2,12,2
+252,11690, Gionee A1 Plus ,Gionee,8,Mediatek Helio P25,4,64,4550,2,1,6,2,7,1
+253,8998, Xiaomi Redmi 5 (32GB) ,Xiaomi,28,Qualcomm Snapdragon 450,3,32,3300,1,1,5.7,2,7,1
+254,131900, Apple iPhone XS Max 512GB ,Apple,3,Apple A12 Bionic,4,512,3174,2,1,6.5,2,12,2
+255,9999, Nokia 6.1 4GB RAM ,Nokia,18,Qualcomm Snapdragon 630,4,64,3000,1,1,5.5,2,8,1
+256,6999, Xiaomi Redmi 5A 32GB ,Xiaomi,28,Qualcomm Snapdragon 425,3,32,3000,1,1,5,2,7,1
+257,8490, vivo Y21L ,vivo,27,Qualcomm Snapdragon 410,1,16,2000,1,1,4.5,2,5,1
+258,6799, Samsung Galaxy J2 ,Samsung,25,Exynos 3475,1,8,2000,1,1,4.7,2,5,1
+259,46700, Samsung Galaxy Note 9 512GB ,Samsung,25,Exynos 9810,8,512,4000,2,1,6.4,2,8,1
+260,10990, realme 1 128GB ,realme,24,Mediatek Helio P60,6,128,3410,1,1,6,2,8,1
+261,8999, realme 2 64GB ,realme,24,Qualcomm Snapdragon 450,4,64,4230,2,1,6.2,2,8,1
+262,6499, Gionee P7 Max ,Gionee,8,Mediatek MT6595,3,32,3100,1,1,5.5,2,6,1
+263,6499, Motorola Moto C Plus ,Motorola,17,Mediatek MT6737,2,16,4000,1,1,5,2,7,1
+264,25199, Apple iPhone 5S ,Apple,3,Apple A7,1,16,1560,1,1,4,1,7,2
+265,44999, Apple iPhone 7 128GB ,Apple,3,Apple A10 Fusion,2,128,1960,1,1,4.7,1,10,2
+266,19999, Nokia 8 ,Nokia,18,Qualcomm Snapdragon 835,4,64,3090,2,1,5.3,2,7,1
+267,18890, Samsung Galaxy A7 128GB (2018) ,Samsung,25,Exynos 7885,6,128,3300,3,1,6,2,8,1
+268,25600, Samsung Galaxy A9 (2018) 8GB RAM ,Samsung,25,Qualcomm Snapdragon 660,8,128,3800,4,1,6.3,2,8,1
+269,12190, Samsung Galaxy J7 ,Samsung,25,Exynos 7580,1.5,16,3000,1,1,5.5,2,5,1
+271,7990, Xiaomi Redmi 6 64GB ,Xiaomi,28,Mediatek Helio P22,3,64,3000,2,1,5.45,2,8,1
+272,11999, Motorola Moto X4 4GB RAM ,Motorola,17,Qualcomm Snapdragon 630,4,64,3000,2,1,5.2,2,7,1
+273,113900, Samsung Galaxy S10 Plus 1TB ,Samsung,25,Exynos 9820,12,1024,4100,3,2,6.4,2,9,1
+274,15000, OPPO F5 6GB RAM ,OPPO,21,Mediatek Helio P23,6,64,3200,1,1,6,2,7,1
+275,9999, Huawei Honor 9N 128GB ,Huawei,12,HiSilicon Kirin 659,4,128,3000,2,1,5.84,2,8,1
+276,11800, vivo V5s ,vivo,27,Mediatek MT6750,4,64,3000,1,1,5.5,2,6,1
+277,8890, Samsung Galaxy M10 32GB ,Samsung,25,Exynos 7870,3,32,3400,2,1,6.22,2,8,1
+278,13399, Apple iPhone 4S 8GB ,Apple,3,Apple A5,0.5,8,1430,1,1,3.5,1,5,2
+279,9990, OPPO A7 3GB RAM ,OPPO,21,Qualcomm Snapdragon 450,3,64,4230,2,1,6.2,2,8,1
+280,10200, Motorola Moto G6 64GB ,Motorola,17,Qualcomm Snapdragon 450,4,64,3000,2,1,5.7,2,8,1
+281,14990, vivo V5 Plus ,vivo,27,Qualcomm Snapdragon 625,4,64,3055,1,2,5.5,2,6,1
+282,7599, Motorola Moto M 4GB RAM ,Motorola,17,Mediatek Helio P15,4,64,3050,1,1,5.5,2,6,1
+283,9999, Huawei Honor 8X 6GB RAM ,Huawei,12,HiSilicon Kirin 710,6,64,3750,2,1,6.5,2,8,1
+284,6185, Nokia 5 3GB RAM ,Nokia,18,Qualcomm Snapdragon 430,3,16,3000,1,1,5.2,2,7,1
+285,8099, Xiaomi Redmi 5 (64GB) ,Xiaomi,28,Qualcomm Snapdragon 450,4,64,3300,1,1,5.7,2,7,1
+286,7990, Panasonic P91 ,Panasonic,22,Mediatek MT6737M,1,16,2500,1,1,5,2,7,1
+287,9600, HTC Desire 620G ,HTC,11,Mediatek MT6592,1,8,2100,1,1,5,2,4,1
+288,38990, Apple iPhone 6S Plus 32GB ,Apple,3,Apple A9,2,32,2750,1,1,5.5,1,9,2
+290,89999, Apple iPhone XS Max 256GB ,Apple,3,Apple A12 Bionic,4,256,3174,2,1,6.5,2,12,2
+291,8199, Xiaomi Redmi Note 5 64GB ,Xiaomi,28,Qualcomm Snapdragon 625,4,64,4000,1,1,5.99,2,7,1
+292,3350, Mobiistar C1 Lite ,Mobiistar,16,Mediatek MT6739,1,8,2700,1,1,5.34,2,8,1
+293,74999, Apple iPhone XS 256GB ,Apple,3,Apple A12 Bionic,4,256,2658,2,1,5.8,2,12,2
+294,13900, Huawei Honor 7x ,Huawei,12,HiSilicon Kirin 659,4,64,3340,2,1,5.93,2,7,1
+295,9990, vivo Y71i ,vivo,27,Qualcomm Snapdragon 425,2,16,3360,1,1,6,2,8,1
+296,3990, Mobiistar C1 Shine ,Mobiistar,16,Mediatek MT6739,2,16,3000,1,1,5.34,2,8,1
+297,8200, Samsung Galaxy J2 Pro,Samsung,25,Qualcomm Snapdragon 425,2,16,2600,1,1,5,2,6,1
+298,7511, Motorola Moto E4 ,Motorola,17,Mediatek MT6737,2,16,2800,1,1,5,2,7,1
+299,40000, Apple iPhone 6 64GB ,Apple,3,Apple A8,1,64,1810,1,1,4.7,1,8,2
+300,7999, Motorola Moto G5 Plus 4GB RAM ,Motorola,17,Qualcomm Snapdragon 625,4,32,3000,1,1,5.2,2,7,1
+301,9900, Sony Xperia R1 ,Sony,26,Qualcomm Snapdragon 430,2,16,2630,1,1,5.2,2,7,1
+302,7994, Apple iPhone SE ,Apple,3,Apple A9,2,16,1624,1,1,4,1,9,2
+303,33999, Apple iPhone 6s 64GB ,Apple,3,Apple A9,2,64,1715,1,1,4.7,1,9,2
+304,8900, Motorola Moto G5S ,Motorola,17,Qualcomm Snapdragon 430,4,32,3000,1,1,5.2,2,7,1
+305,6499, OPPO A83 16GB 2018 ,OPPO,21,Mediatek Helio P23,2,16,3180,1,1,5.7,2,7,1
+306,8499, ASUS Zenfone Max Pro (M1) 64GB ,ASUS,4,Qualcomm Snapdragon 636,4,64,5000,2,1,5.99,2,8,1
+307,38990, Apple iPhone 6 Plus 32GB ,Apple,3,Apple A8,1,32,2915,1,1,5.5,1,8,2
+308,7499, OPPO A71 (2018) ,OPPO,21,Qualcomm Snapdragon 450,3,16,3000,1,1,5.2,2,7,1
+309,8900, vivo Y71 ,vivo,27,Qualcomm Snapdragon 425,3,16,3360,1,1,6,2,8,1
+311,9099, vivo Y51L ,vivo,27,Qualcomm Snapdragon 410,2,16,2350,1,1,5,2,5,1
+312,16490, OPPO F1s 64GB ,OPPO,21,Mediatek MT6750,4,64,3075,1,1,5.5,2,5,1
+313,10994, Sony Xperia XA1 Plus ,Sony,26,Mediatek Helio P20,4,32,3430,1,1,5.5,2,7,1
+314,13790, Motorola Moto G7 Power ,Motorola,17,Qualcomm Snapdragon 632,4,64,5000,1,1,6.22,2,9,1
+315,9990, vivo Y83 ,vivo,27,Mediatek Helio P22,4,32,3260,1,1,6.22,2,8,1
+316,4499, Panasonic P85 NXT ,Panasonic,22,Qualcomm Snapdragon 210,2,16,4000,1,1,5,2,7,1
+317,10490, Motorola Moto G5S Plus ,Motorola,17,Qualcomm Snapdragon 625,4,64,3000,2,1,5.5,2,7,1
+318,11990, Samsung Galaxy M20 4GB RAM ,Samsung,25,Exynos 7904,4,64,5000,2,1,6.3,2,8,1
+320,8400, Samsung Galaxy J4 ,Samsung,25,Exynos 7570,2,16,3000,1,1,5.5,2,8,1
+322,11990, Huawei Honor Play ,Huawei,12,HiSilicon Kirin 970,4,64,3750,2,1,6.3,2,8,1
+323,121900, Apple iPhone XS 512GB ,Apple,3,Apple A12 Bionic,4,512,2658,2,1,5.8,2,12,2
+324,6990, Samsung Galaxy On7 Pro ,Samsung,25,Qualcomm Snapdragon 410,2,16,3000,1,1,5.5,2,6,1
+326,13899, Huawei Honor Play 6GB RAM ,Huawei,12,HiSilicon Kirin 970,6,64,3750,2,1,6.3,2,8,1
+327,11890, Samsung Galaxy J7 Duo ,Samsung,25,Exynos 7870,4,32,3000,2,1,5.5,2,8,1
+328,8450, Motorola Moto G5 ,Motorola,17,Qualcomm Snapdragon 430,3,16,2800,1,1,5,2,7,1
+329,17600, Samsung Galaxy C7 Pro ,Samsung,25,Qualcomm Snapdragon 626,4,64,3300,1,1,5.7,2,6,1
+330,6348, Lenovo A5 32GB ,Lenovo,14,Mediatek MT6739,3,32,4000,1,1,5.45,2,8,1
+331,4517, Gionee F205 ,Gionee,8,Mediatek MT6739,2,16,2670,1,1,5.45,2,7,1
+332,40000, Apple iPhone 6 Plus ,Apple,3,Apple A8,1,16,2915,1,1,5.5,1,8,2
+333,11449, Huawei Honor 10 Lite 6GB RAM ,Huawei,12,HiSilicon Kirin 710,6,64,3400,2,1,6.21,2,9,1
+334,10499, vivo Y71 32GB ,vivo,27,Qualcomm Snapdragon 425,4,32,3360,1,1,6,2,8,1
+335,6190, Samsung Galaxy J2 Core ,Samsung,25,Exynos 3475,1,8,2600,1,1,5,2,8,1
+336,37855, Samsung Galaxy S9 Plus 128GB ,Samsung,25,Exynos 9810,6,128,3500,2,1,6.2,2,8,1
+337,29999, Panasonic Eluga X1 Pro ,Panasonic,22,Mediatek Helio P60,6,128,3000,2,1,6.18,2,8,1
+338,44990, Apple iPhone 7 256GB ,Apple,3,Apple A10 Fusion,2,256,1960,1,1,4.7,1,10,2
+339,9999, OPPO F5 Youth ,OPPO,21,Mediatek Helio P23,3,32,3200,1,1,6,2,7,1
+340,6799, Samsung Galaxy J2 (2018) ,Samsung,25,Qualcomm Snapdragon 425 ,2,16,2600,1,1,5,2,7,1
+341,6000, Samsung Galaxy J2 (2017) ,Samsung,25,Exynos 3475,1,8,2000,1,1,4.7,2,7,1
+342,7499, realme C1 2019 2GB RAM ,realme,24,Qualcomm Snapdragon 450,2,32,4230,2,1,6.2,2,8,1
+343,12990, Samsung Galaxy J7 Prime 32GB ,Samsung,25,Exynos 7870,3,32,3300,1,1,5.5,2,6,1
+344,58990, OPPO Find X ,OPPO,21,Qualcomm Snapdragon 845,8,256,3730,2,1,6.42,2,8,1
+345,11990, Samsung Galaxy J6 Plus ,Samsung,25,Qualcomm Snapdragon 425,4,64,3300,2,1,6,2,8,1
+346,10300, Nokia 5.1 Plus 4GB RAM ,Nokia,18,Mediatek Helio P60,4,64,3060,2,1,5.86,2,8,1
+347,12490, OPPO A83 (2018) ,OPPO,21,Mediatek Helio P23,4,64,3180,1,1,5.7,2,7,1
+348,13000, Sony Xperia XA1 ,Sony,26,Mediatek Helio P20,3,32,2300,1,1,5,2,7,1
+349,21999, Huawei Nova 3i ,Huawei,12,HiSilicon Kirin 710,4,128,3340,2,2,6.3,2,8,1
+350,8888, Panasonic Eluga X1 ,Panasonic,22,Mediatek Helio P60,4,64,3000,2,1,6.18,2,8,1
+351,20290, HTC Desire 10 Pro 32GB ,HTC,11,Mediatek Helio P10,3,32,3000,1,1,5.5,2,6,1
+352,58999, Google Pixel 3 128GB ,Google,9,Qualcomm Snapdragon 845,4,128,2915,1,2,5.5,2,8,1
+353,5990, ASUS Zenfone Lite L1 ,ASUS,4,Qualcomm Snapdragon 430,2,16,3000,1,1,5.45,2,8,1
+354,5990, Samsung Galaxy On5 Pro ,Samsung,25,Exynos 3475,2,16,2600,1,1,5,2,6,1
+355,9490, Samsung Galaxy J6 64GB ,Samsung,25,Exynos 7870,4,64,3000,1,1,5.6,2,8,1
+356,16990, Samsung Galaxy A6 64GB ,Samsung,25,Exynos 7870,4,64,3000,1,1,5.6,2,8,1
+357,9999, Nokia 6 ,Nokia,18,Qualcomm Snapdragon 430,3,32,3000,1,1,5.5,2,7,1
+358,32849, Apple iPhone 5S 32GB ,Apple,3,Apple A7,1,32,1560,1,1,4,1,7,2
+359,10894, OPPO F1 ,OPPO,21,Qualcomm Snapdragon 616,3,16,2500,1,1,5,2,5,1
+360,7999, Gionee S6 Pro 64GB ,Gionee,8,Mediatek Helio P10,4,64,3130,1,1,5.5,2,6,1
+361,6900, vivo Y21 ,vivo,27,Mediatek MT6580,1,16,1900,1,1,4.5,2,5,1
+362,8200, OPPO Neo 7 ,OPPO,21,Qualcomm Snapdragon 410,1,16,2420,1,1,5,2,5,1
+363,16990, Samsung Galaxy A6 ,Samsung,25,Exynos 7870,4,32,3000,1,1,5.6,2,8,1
+365,58996, Apple iPhone 6 128GB ,Apple,3,Apple A8,1,128,1810,1,1,4.7,1,8,2
+366,10999, realme 1 ,realme,24,Mediatek Helio P60,3,32,3410,1,1,6,2,8,1
+367,7999, Huawei Honor 8C 64GB ,Huawei,12,Qualcomm Snapdragon 632,4,64,4000,2,1,6.26,2,8,1
+368,12999, realme 2 Pro 128GB ,realme,24,Qualcomm Snapdragon 660,8,128,3500,2,1,6.3,2,8,1
+369,66990, Apple iPhone 6s 128GB ,Apple,3,Apple A9,2,128,1715,1,1,4.7,1,9,2
+370,24999, OPPO R17 Pro ,OPPO,21,Qualcomm Snapdragon 710,8,128,3415,2,1,6.4,2,8,1
+371,8990, Samsung Galaxy On5 ,Samsung,25,Exynos 3475,1.5,8,2600,1,1,5,2,5,1
+373,6399, Xiaomi Redmi Note 3 ,Xiaomi,28,Qualcomm Snapdragon 650,2,16,4050,1,1,5.5,2,5,1
+374,29999, BlackBerry Keyone ,BlackBerry,6,Qualcomm Snapdragon 625,4,64,3500,1,1,4.5,1,7,1
+375,19125, Samsung Galaxy S3 ,Samsung,25,Exynos 4412,1,16,2100,1,1,4.8,1,4,1
+376,61900, Apple iPhone 7 Plus 256GB ,Apple,3,Apple A10 Fusion,3,256,2900,2,1,5.5,1,10,2
+377,81451, Apple iPhone 6S Plus 128GB ,Apple,3,Apple A9,2,128,2750,1,1,5.5,1,9,2
+378,9990, Lenovo Vibe K5 Note (4GB RAM) ,Lenovo,14,Mediatek Helio P10,4,32,3500,1,1,5.5,2,6,1
+379,14980, vivo V3 ,vivo,27,Qualcomm Snapdragon 616,3,32,2550,1,1,5,2,5,1
+380,10299, realme 1 64GB ,realme,24,Mediatek Helio P60,4,64,3410,1,1,6,2,8,1
+381,9490, vivo Y81 4GB ,vivo,27,Mediatek Helio P22,4,32,3260,1,1,6.22,2,8,1
+382,29999, Xiaomi Mi Mix 2 ,Xiaomi,28,Qualcomm Snapdragon 835,6,128,3400,1,1,5.99,2,7,1
+383,14999, OPPO F3 Plus ,OPPO,21,Qualcomm Snapdragon 653,4,64,4000,1,2,6,2,6,1
+384,22990, LG G7 ThinQ ,LG,15,Qualcomm Snapdragon 845,4,64,3600,2,1,6.1,2,7,1
+385,10990, Samsung Galaxy On Nxt 64GB ,Samsung,25,Exynos 7870,3,64,3300,1,1,5.5,2,6,1
+386,7990, OPPO A3s 32GB ,OPPO,21,Qualcomm Snapdragon 450,3,32,4230,2,1,6.2,2,8,1
+387,22990, Sony Xperia XA1 Ultra ,Sony,26,Mediatek Helio P20,4,64,2700,1,1,6,2,7,1
+388,20499, Samsung Galaxy C9 Pro ,Samsung,25,Qualcomm Snapdragon 653,6,64,4000,1,1,6,2,6,1
+389,13080, Xiaomi Redmi Note 7 Pro 128GB ,Xiaomi,28,Qualcomm Snapdragon 675,6,128,4000,2,1,6.3,2,9,1
+390,10669, realme 2 Pro 6GB RAM ,realme,24,Qualcomm Snapdragon 660,6,64,3500,2,1,6.3,2,8,1
+392,19999, Huawei P20 Lite ,Huawei,12,HiSilicon Kirin 659,4,64,3000,2,1,5.84,2,8,1
+393,15900, Samsung Galaxy On Nxt ,Samsung,25,Exynos 7870,3,32,3300,1,1,5.5,2,6,1
+395,5040, Mobiistar E1 Selfie ,Mobiistar,16,Mediatek MT6739,3,32,3000,1,1,5.45,2,8,1
+396,7990, Xiaomi Redmi 4 32GB ,Xiaomi,28,Qualcomm Snapdragon 435,3,32,4100,1,1,5,2,6,1
+397,7706, vivo Y53i ,vivo,27,Qualcomm Snapdragon 425,2,16,2500,1,1,5,2,6,1
+398,5499, Motorola Moto C ,Motorola,17,Mediatek MT6737M,1,16,2350,1,1,5,2,7,1
+399,36070, Samsung Galaxy S6 ,Samsung,25,Exynos 7420,3,32,2550,1,1,5.1,1,5,1
+400,9199, Samsung Galaxy J4 32GB ,Samsung,25,Exynos 7570,3,32,3000,1,1,5.5,2,8,1
+401,69910, Samsung Galaxy S10 512GB ,Samsung,25,Exynos 9820,8,512,3400,3,1,6.1,2,9,1
+402,12000, Samsung Galaxy J7 Nxt 3GB RAM ,Samsung,25,Exynos 7580,3,32,3000,1,1,5.5,2,7,1
+403,4719, Gionee F205 Pro ,Gionee,8,Mediatek MT6739,2,16,3000,1,1,5.45,2,8,1
+404,71990, Apple iPhone 6s Plus 64GB ,Apple,3,Apple A9,2,64,2750,1,1,5.5,1,9,2
+405,9994, Sony Xperia XZ ,Sony,26,Qualcomm Snapdragon 820,3,64,2900,1,1,5.2,2,6,1
+406,8999, Infinix Note 5 64GB ,Infinix,13,Mediatek Helio P23,4,64,4500,1,1,5.99,2,8,1
+407,46000, Apple iPhone 6 Plus 64GB ,Apple,3,Apple A8,1,64,2915,1,1,5.5,1,8,2
+408,17990, vivo X21 ,vivo,27,Qualcomm Snapdragon 660,6,128,3200,2,1,6.28,2,8,1
+409,14999, ASUS Zenfone Max Pro (M1) 6GB RAM ,ASUS,4,Qualcomm Snapdragon 636,6,64,5000,2,1,5.99,2,8,1
+410,4799, Mobiistar X1 Notch ,Mobiistar,16,Mediatek Helio A22,2,16,3020,1,1,5.99,2,8,1
+411,24999, OnePlus 2 ,OnePlus,20,Qualcomm Snapdragon 810,4,64,3300,1,1,5.5,2,5,1
+412,19754, Xiaomi Poco F1 128GB ,Xiaomi,28,Qualcomm Snapdragon 845,6,128,4000,2,1,6.18,2,8,1
+413,6999, Infinix Note 5 ,Infinix,13,Mediatek Helio P23,3,32,4500,1,1,5.99,2,8,1
+414,6899, Xiaomi Redmi Note 3 32GB ,Xiaomi,28,Qualcomm Snapdragon 650,3,32,4050,1,1,5.5,2,5,1
+415,22999, OPPO F7 128GB ,OPPO,21,Mediatek Helio P60,6,128,3400,1,1,6.23,2,8,1
+416,18990, Sony Xperia XA ,Sony,26,Mediatek Helio P10,2,16,2300,1,1,5,2,6,1
+417,13499, Huawei Y9 (2019) ,Huawei,12,HiSilicon Kirin 710 ,4,64,4000,2,2,6.5,2,8,1
+418,5947, Lenovo K9 ,Lenovo,14,Mediatek Helio P22,3,32,3000,2,2,5.7,2,8,1
+419,55000, Google Pixel XL ,Google,9,Qualcomm Snapdragon 821,4,32,3450,1,1,5.5,1,7,1
+420,7499, Sony Xperia L ,Sony,26,Qualcomm Snapdragon 400,1,8,1750,1,1,4.3,1,4,1
+421,87900, Samsung Galaxy S10 Plus 512GB ,Samsung,25,Exynos 9820,8,512,4100,3,2,6.4,2,9,1
+422,11999, Xiaomi Mi 4i ,Xiaomi,28,Qualcomm Snapdragon 615,2,16,3120,1,1,5,2,5,1
+423,11999, Xiaomi Redmi Y1 4GB RAM ,Xiaomi,28,Qualcomm Snapdragon 435,4,64,3080,1,1,5.5,2,7,1
+424,7499, ASUS Zenfone Max M2 ,ASUS,4,Qualcomm Snapdragon 632,3,32,4000,2,1,6.3,2,8,1
+426,9994, Google Pixel 2 ,Google,9,Qualcomm Snapdragon 835,4,64,2700,1,1,5,1,8,1
+429,12990, Samsung Galaxy On6 ,Samsung,25,Exynos 7870,4,64,3000,1,1,5.6,2,8,1
+430,32550, Apple iPhone 5S 64GB ,Apple,3,Apple A7,1,64,1560,1,1,4,1,7,2
+431,17990, OPPO R17 ,OPPO,21,Qualcomm Snapdragon 670,8,128,3500,2,1,6.4,2,8,1
+432,16990, Samsung Galaxy On8 (2018) ,Samsung,25,Qualcomm Snapdragon 450,4,64,3500,2,1,6,2,8,1
+433,6999, Xiaomi Redmi 2 Prime ,Xiaomi,28,Qualcomm Snapdragon 410,2,16,2200,1,1,4.7,2,4,1
+434,57990, Apple iPhone 8 Plus 256GB ,Apple,3,Apple A11 Bionic,3,256,2691,2,1,5.5,1,11,2
+435,39129, Apple iPhone 5 ,Apple,3,Apple A6,1,16,1440,1,1,4,1,6,2
+436,16999, OnePlus X ,OnePlus,20,Qualcomm Snapdragon 801,3,16,2525,1,1,5,2,5,1
+438,31999, Xiaomi Blackshark 2 ,Xiaomi,28,Qualcomm Snapdragon 855,6,128,4000,2,1,6.39,2,9,1
+439,14766, Xiaomi Mi 4 ,Xiaomi,28,Qualcomm Snapdragon 801,3,16,3080,1,1,5,1,4,1
+440,6199, Lenovo A5 ,Lenovo,14,Mediatek MT6739,2,16,4000,1,1,5.45,2,8,1
+441,8899, Billion Capture Plus 4GB RAM ,Billion,5,Qualcomm Snapdragon 625,4,64,3500,2,1,5.5,2,7,1
+442,5890, Mobiistar X1 Notch 3GB RAM ,Mobiistar,16,Mediatek Helio A22,3,32,3020,1,1,5.99,2,8,1
+444,44843, Samsung Galaxy Note 5 ,Samsung,25,Exynos 7420,4,32,3000,1,1,5.7,1,5,1
+445,19999, OnePlus One ,OnePlus,20,Qualcomm Snapdragon 801,3,64,3100,1,1,5.5,1,4,1
+446,4150, Mobiistar C2 ,Mobiistar,16,Mediatek MT6739,2,16,3000,1,1,5.34,2,8,1
+448,34999, Huawei Nova 3 ,Huawei,12,HiSilicon Kirin 970,6,128,3750,2,2,6.3,2,8,1
+449,24999, LG G6 ,LG,15,Qualcomm Snapdragon 821,4,64,3300,2,1,5.7,2,7,1
+450,8000, Motorola Moto G5 Plus ,Motorola,17,Qualcomm Snapdragon 625,3,16,3000,1,1,5.2,2,7,1
+451,69999, ASUS ROG Phone ,ASUS,4,Qualcomm Snapdragon 845,8,128,4000,2,1,6,1,8,1
+452,22999, Nokia 8 Sirocco ,Nokia,18,Qualcomm Snapdragon 835,6,128,3260,2,1,5.5,2,8,1
+453,7994, Sony Xperia L2 ,Sony,26,Mediatek MT6737T,3,32,3300,1,1,5.5,2,7,1
+454,32999, Huawei Honor 10 ,Huawei,12,HiSilicon Kirin 970,6,128,3400,2,1,5.84,2,8,1
+455,8299, Samsung Galaxy J3 Pro ,Samsung,25,Qualcomm Snapdragon 410,2,16,2600,1,1,5,2,5,1
+456,43990, Samsung Galaxy S9 Plus 256GB ,Samsung,25,Exynos 9810,6,256,3500,2,1,6.2,2,8,1
+457,42990, BlackBerry Key2 ,BlackBerry,6,Qualcomm Snapdragon 660,6,64,3500,2,1,4.5,2,8,1
+458,41999, OnePlus 6T 8GB RAM ,OnePlus,20,Qualcomm Snapdragon 845,8,128,3700,2,1,6.41,2,8,1
+459,25900, Samsung Galaxy A7 (2017) ,Samsung,25,Exynos 7880,3,32,3600,1,1,5.7,2,6,1
+462,10599, Nokia 5.1 Plus 6GB RAM ,Nokia,18,Mediatek Helio P60,6,64,3060,2,1,5.86,2,8,1
+464,6999, Infinix Hot S3X ,Infinix,13,Qualcomm Snapdragon 430,3,32,4000,2,1,6.2,2,8,1
+466,4499, Infinix Smart 2 32GB ,Infinix,13,Mediatek MT6739,3,32,3050,1,1,5.45,2,8,1
+467,16999, LG Q Stylus Plus ,LG,15,Mediatek MT6750,4,64,3300,1,1,6.2,2,8,1
+468,14994, LG V30 ,LG,15,Qualcomm Snapdragon 835,4,64,3300,2,1,6,2,7,1
+469,6999, Coolpad Note 8 ,Coolpad,7,Mediatek MT6750T,4,64,4100,2,1,5.99,2,8,1
+471,29999, Huawei Honor View 10 ,Huawei,12,HiSilicon Kirin 970,6,128,3750,2,1,5.99,2,8,1
+472,16999, Samsung Galaxy M30 128GB ,Samsung,25,Exynos 7885,6,128,5000,3,1,6.4,2,9,1
+473,59999, Huawei P20 Pro ,Huawei,12,HiSilicon Kirin 970,6,128,4000,3,1,6.1,2,8,1
+474,50286, Apple iPhone 6 Plus 128GB ,Apple,3,Apple A8,1,128,2915,1,1,5.5,1,8,2
+475,29999, Huawei Honor 8 Pro ,Huawei,12,HiSilicon Kirin 960,6,128,4000,2,1,5.7,2,7,1
+476,5999, Xiaomi Redmi 2 ,Xiaomi,28,Qualcomm Snapdragon 410,1,8,2200,1,1,4.7,2,4,1
+477,44990, Huawei Mate 20 Pro ,Huawei,12,HiSilicon Kirin 980,6,128,4200,3,1,6.39,1,9,1
+478,3999, Infinix Smart 2 ,Infinix,13,Mediatek MT6739,2,16,3050,1,1,5.45,2,8,1
+479,17999, LG Google Nexus 5 ,LG,15,Qualcomm Snapdragon 800,2,16,2300,1,1,4.95,1,5,1
+480,13500, Samsung Galaxy J5 Prime 32GB ,Samsung,25,Exynos 7570,3,32,2400,1,1,5,2,6,1
+481,12490, Samsung Galaxy On Max ,Samsung,25,Mediatek Helio P20,4,32,3300,1,1,5.7,2,7,1
+482,5606, OPPO Joy Plus R1011 ,OPPO,21,Mediatek MT6572,1,4,1700,1,1,4,2,4,1
+483,18999, Xiaomi Poco F1 256GB ,Xiaomi,28,Qualcomm Snapdragon 845,8,256,4000,2,1,6.18,2,8,1
+484,12889, Samsung Galaxy J7 Prime 2 ,Samsung,25,Exynos 7870,3,32,3300,1,1,5.5,2,7,1
+485,8999, Xiaomi Redmi Note 4G ,Xiaomi,28,Qualcomm Snapdragon 400,2,8,3100,1,1,5.5,1,4,1
+487,12999, Panasonic Eluga Ray 600 ,Panasonic,22,Mediatek MT6737H,3,32,4000,1,1,5.99,2,8,1
+488,10990, vivo Z10 ,vivo,27,Qualcomm Snapdragon 450,4,32,3225,1,1,5.99,2,7,1
+489,9999, vivo Y93 3GB RAM ,vivo,27,Mediatek Helio P22,3,64,4030,2,1,6.2,2,8,1
+490,9999, Infinix Hot S3 ,Infinix,13,Qualcomm Snapdragon 430,3,32,4000,1,1,5.65,2,8,1
+491,9349, LG Q7 ,LG,15,Mediatek MT6750S,3,32,3300,1,1,5.5,2,8,1
+492,8999, Motorola Moto G7 ,Motorola,17,Qualcomm Snapdragon 660 ,4,64,3500,2,1,6.4,2,9,1
+497,2790, Coolpad Mega 5M ,Coolpad,7,Mediatek MT6739,1,16,2000,1,1,5,2,8,1
+498,14980, OPPO K1 6GB RAM ,OPPO,21,Qualcomm Snapdragon 660,6,64,3500,2,1,6.4,2,8,1
+499,45999, OnePlus 6T 256GB ,OnePlus,20,Qualcomm Snapdragon 845,8,256,3700,2,1,6.41,2,8,1
+500,35999, Huawei Honor V20 ,Huawei,12,HiSilicon Kirin 980,6,128,4000,3,1,6.3,2,9,1
+501,35899, LG V40 ThinQ ,LG,15,Qualcomm Snapdragon 845,6,128,3300,3,2,6.4,2,8,1
+502,23990, OPPO F9 Pro 128GB ,OPPO,21,Mediatek Helio P60,6,128,3500,2,1,6.3,2,8,1
+503,10398, Motorola One ,Motorola,17,Qualcomm Snapdragon 625,4,64,3500,2,1,5.9,2,8,1
+504,39999, OnePlus 6 128GB ,OnePlus,20,Qualcomm Snapdragon 845,8,128,3300,2,1,6.28,2,8,1
+505,28999, Xiaomi Poco F1 Armoured Edition ,Xiaomi,28,Qualcomm Snapdragon 845,8,256,4000,2,1,6.18,2,8,1
+506,11990, Samsung Galaxy On7 Prime 4GB RAM ,Samsung,25,Exynos 7870,4,64,3300,1,1,5.5,2,7,1
+507,8999, ASUS Zenfone Max M2 64GB ,ASUS,4,Qualcomm Snapdragon 632,4,64,4000,2,1,6.3,2,8,1
+508,6499, Panasonic Eluga I7 ,Panasonic,22,Mediatek MT6737H,2,16,4000,1,1,5.45,2,7,1
+511,54990, Razer Phone 2 ,Razer,23,Qualcomm Snapdragon 845,8,64,4000,2,1,5.72,1,8,1
+512,41999, OnePlus 6T McLaren Edition ,OnePlus,20,Qualcomm Snapdragon 845,10,256,3700,2,1,6.41,2,9,1
+513,35990, LG G8s ThinQ ,LG,15,Qualcomm Snapdragon 855,6,128,3550,3,1,6.2,2,9,1
+514,19900, HTC Desire 12 Plus ,HTC,11,Qualcomm Snapdragon 450,3,32,2965,2,1,6,2,8,1
+515,13999, LG Q60 ,LG,15,Mediatek Helio P22,3,64,3500,3,1,6.26,2,9,1
+518,29899, Nokia 8.1 6GB RAM ,Nokia,18,Qualcomm Snapdragon 710,6,128,3500,2,1,6.09,2,9,1
+519,27999, LG G7 Plus ThinQ ,LG,15,Qualcomm Snapdragon 845,6,128,3000,2,1,6.1,2,8,1
+520,22990, OPPO F3 Plus 6GB RAM ,OPPO,21,Qualcomm Snapdragon 653,6,64,4000,1,2,6,2,6,1
+521,16999, Infinix Note 5 Stylus ,Infinix,13,Mediatek Helio P23,4,64,4000,1,1,5.93,2,8,1
+522,9999, 10.or G2 ,10.or,1,Qualcomm Snapdragon 636,6,64,5000,2,1,6.18,2,8,1
+523,7750, Huawei Honor Holly 4 ,Huawei,12,Qualcomm Snapdragon 430,3,32,3020,1,1,5,2,7,1
+525,56990, HTC U11 Plus ,HTC,11,Qualcomm Snapdragon 835,6,128,3930,1,1,6,2,8,1
+528,9990, Panasonic Eluga Z1 ,Panasonic,22,Mediatek Helio P22,3,32,4000,2,1,6.19,2,8,1
+530,5150, Billion Capture Plus ,Billion,5,Qualcomm Snapdragon 625,3,32,3500,2,1,5.5,2,7,1
+532,4590, Coolpad Mega 5 ,Coolpad,7,Mediatek MT6739,3,32,3000,2,1,5.7,2,8,1
+535,141900, Apple iPhone 11 Pro Max 512GB ,Apple,3,Apple A13 Bionic,4,512,3969,3,1,6.5,2,13,2
+536,131900, Apple iPhone 11 Pro 512GB ,Apple,3,Apple A13 Bionic,4,512,3046,3,1,5.8,2,13,2
+537,122900, Apple iPhone 11 Pro Max 256GB ,Apple,3,Apple A13 Bionic,4,256,3969,3,1,6.5,2,13,2
+538,112900, Apple iPhone 11 Pro 256GB ,Apple,3,Apple A13 Bionic,4,256,3046,3,1,5.8,2,13,2
+539,89999, Samsung Galaxy Note 10 Plus 512GB ,Samsung,25,Exynos 9825,12,512,4300,3,1,6.8,2,9,1
+540,79900, Apple iPhone 11 256GB ,Apple,3,Apple A13 Bionic,4,256,3110,2,1,6.1,2,13,2
+541,69899, Apple iPhone 11 128GB ,Apple,3,Apple A13 Bionic,4,128,3110,2,1,6.1,2,13,2
+542,64500, Samsung Galaxy S10 Plus 8GB RAM ,Samsung,25,Exynos 9820 ,8,128,4100,3,2,6.4,2,9,1
+543,58999, OnePlus 7T Pro McLaren Edition ,OnePlus,20,Qualcomm Snapdragon 855 Plus,12,256,4085,3,1,6.67,2,10,1
+544,48999, OnePlus 7 Pro 12GB RAM ,OnePlus,20,Qualcomm Snapdragon 855,12,256,4000,3,1,6.67,2,9,1
+545,47999, Nubia Red Magic 3S 256GB ,Nubia,19,Qualcomm Snapdragon 855,12,256,5000,1,1,6.65,2,9,1
+546,42999, OnePlus 7 Pro 8GB RAM ,OnePlus,20,Qualcomm Snapdragon 855,8,256,4000,3,1,6.67,2,9,1
+547,41999, Xiaomi Black Shark 2 256GB ,Xiaomi,28,Qualcomm Snapdragon 855,6,256,4000,2,1,6.39,2,9,1
+548,39990, OPPO Reno 10x Zoom 8GB RAM ,OPPO,21,Qualcomm Snapdragon 855,8,256,4065,3,1,6.6,2,9,1
+549,37999, OnePlus 7T 256GB ,OnePlus,20,Qualcomm Snapdragon 855 Plus,8,256,3800,3,1,6.55,2,10,1
+550,35999, Nubia Red Magic 3S ,Nubia,19,Qualcomm Snapdragon 855 Plus,8,128,5000,1,1,6.65,2,9,1
+551,34999, Google Pixel 3A XL ,Google,9,Qualcomm Snapdragon 670,4,64,3700,1,1,6,1,9,1
+552,34999, ASUS 6Z 256GB ,ASUS,4,Qualcomm Snapdragon 855,8,256,5000,2,2,6.4,2,9,1
+553,34999, OnePlus 7 8GB RAM ,OnePlus,20,Qualcomm Snapdragon 855,8,256,3700,2,1,6.41,2,9,1
+554,33999, realme X2 Pro 256GB ,realme,24,Qualcomm Snapdragon 855 Plus,12,256,4000,4,1,6.5,2,9,1
+555,33839, Google Pixel 3A ,Google,9,Qualcomm Snapdragon 670,4,64,3000,1,1,5.6,1,9,1
+556,30999, ASUS 6Z 128GB ,ASUS,4,Qualcomm Snapdragon 855,6,128,5000,2,2,6.4,2,9,1
+557,28999, Xiaomi Redmi K20 Pro 256GB ,Xiaomi,28,Qualcomm Snapdragon 855,8,256,4000,3,1,6.39,2,9,1
+558,27999, Samsung Galaxy A70s 8GB RAM ,Samsung,25,Qualcomm Snapdragon 675,8,128,4500,3,1,6.7,2,9,1
+559,27990, OPPO F11 Pro Marvel Avengers Limited Edition ,OPPO,21,Mediatek Helio P70 ,6,128,4000,2,1,6.53,2,9,1
+560,23890, Huawei Honor View 20 128GB ,Huawei,12,HiSilicon Kirin 980,6,128,4000,1,1,6.4,2,9,1
+561,20890, Xiaomi Redmi K20 128GB ,Xiaomi,28,Qualcomm Snapdragon 730,6,128,4000,3,1,6.39,2,9,1
+562,19999, realme X Master Edition ,realme,24,Qualcomm Snapdragon 710,8,128,3765,2,1,6.53,2,9,1
+563,19999, Samsung Galaxy A50s 6GB RAM ,Samsung,25,Exynos 9611,6,128,4000,3,1,6.4,2,9,1
+564,19999, realme X 8GB RAM ,realme,24,Qualcomm Snapdragon 710,8,128,3765,2,1,6.53,2,9,1
+565,19990, OPPO F11 Pro 128GB ,OPPO,21,Mediatek Helio P70 ,6,128,4000,2,1,6.53,2,9,1
+566,19890, vivo V15 Pro 8GB RAM ,vivo,27,Qualcomm Snapdragon 675,8,128,3700,3,1,6.39,2,9,1
+567,18999, realme XT 8GB RAM ,realme,24,Qualcomm Snapdragon 712,8,128,4000,4,1,6.4,2,9,1
+568,18990, OPPO K3 128GB ,OPPO,21,Qualcomm Snapdragon 710,8,128,3765,2,1,6.5,2,9,1
+569,17998, Xiaomi Redmi Note 8 Pro 8GB RAM ,Xiaomi,28,Mediatek Helio G90T,8,128,4500,4,1,6.53,2,9,1
+570,17990, vivo S1 64GB ,vivo,27,Mediatek Helio P65 ,6,64,4500,3,1,6.38,2,9,1
+571,17990, vivo Z1x 128GB ,vivo,27,Qualcomm Snapdragon 712,6,128,4500,3,1,6.38,2,9,1
+572,17800, vivo S1 128GB ,vivo,27,Mediatek Helio P65,6,128,4500,3,1,6.38,2,9,1
+573,16990, realme XT 6GB RAM ,realme,24,Qualcomm Snapdragon 712,6,64,4000,4,1,6.4,2,9,1
+574,16990, Samsung Galaxy M30s 128GB ,Samsung,25,Exynos 9611,6,128,6000,3,1,6.4,2,9,1
+575,16990, Samsung Galaxy A50 6GB RAM ,Samsung,25,Exynos 9610,6,64,4000,3,1,6,2,9,1
+576,16699, Nokia 7.2 6GB RAM ,Nokia,18,Qualcomm Snapdragon 660 ,6,64,3500,3,1,6.3,2,9,1
+577,16632, realme 5 Pro 8GB RAM ,realme,24,Qualcomm Snapdragon 712,8,128,4035,4,1,6.3,2,9,1
+578,15999, Xiaomi Redmi Note 8 Pro 128GB ,Xiaomi,28,Mediatek Helio G90T,6,128,4500,4,1,6.53,2,9,1
+579,15990, vivo Z1x 4GB RAM ,vivo,27,Qualcomm Snapdragon 712,4,128,4500,3,1,6.38,2,9,1
+580,15930, OPPO A9 2020 4GB RAM ,OPPO,21,Qualcomm Snapdragon 665,4,128,5000,4,1,6.5,2,9,1
+581,14999, Motorola One Vision ,Motorola,17,Exynos 9609,4,128,3500,2,1,6.3,2,9,1
+582,14990, vivo Z1 Pro 6GB RAM ,vivo,27,Qualcomm Snapdragon 712,6,128,5000,3,1,6.53,2,9,1
+583,14990, OPPO F11 6GB RAM ,OPPO,21,Mediatek Helio P70 ,6,128,4020,2,1,6.53,2,9,1
+584,14750, Xiaomi Mi A3 128GB ,Xiaomi,28,Qualcomm Snapdragon 665 ,6,128,4030,3,1,6,2,9,1
+585,14150, realme 5 Pro 6GB RAM ,realme,24,Qualcomm Snapdragon 712,6,64,4035,4,1,6.3,2,9,1
+586,13999, Nokia 6.1 32GB ,Nokia,18,Qualcomm Snapdragon 630,4,32,3000,1,1,5.5,2,8,1
+587,13999, Samsung Galaxy A20s 64GB ,Samsung,25,Qualcomm Snapdragon 450,4,64,4000,3,1,6.5,2,9,1
+588,12999, Xiaomi Redmi Note 8 128GB ,Xiaomi,28,Qualcomm Snapdragon 665,6,128,4000,4,1,6.3,2,9,1
+589,12999, HTC Wildfire X 4GB RAM ,HTC,11,Mediatek Helio P22,4,128,3300,3,1,6.22,2,9,1
+590,12999, realme 3 Pro 128GB ,realme,24,Qualcomm Snapdragon 710,6,128,4045,2,1,6.3,2,9,1
+591,12490, LG W30 Pro ,LG,15,Qualcomm Snapdragon 632,4,64,4050,3,1,6.21,2,9,1
+592,11999, realme 3 Pro 6GB RAM ,realme,24,Qualcomm Snapdragon 710,6,64,4045,2,1,6.3,2,9,1
+593,11999, Lenovo K10 Note 128GB ,Lenovo,14,Qualcomm Snapdragon 710,6,128,4050,3,1,6.3,2,9,1
+594,11989, vivo U20 6GB RAM ,vivo,27,Qualcomm Snapdragon 675 ,6,64,5000,3,1,6.53,2,9,1
+595,11900, OPPO A5 2020 ,OPPO,21,Qualcomm Snapdragon 665,3,64,5000,4,1,6.5,2,9,1
+596,11649, Xiaomi Redmi Note 7 Pro 6GB RAM ,Xiaomi,28,Qualcomm Snapdragon 675,6,64,4000,2,1,6.3,2,9,1
+597,10999, realme 5s 128GB ,realme,24,Qualcomm Snapdragon 665,4,128,5000,2,1,6.5,2,9,1
+598,10999, HTC Wildfire X ,HTC,11,Mediatek Helio P22,3,32,3300,3,1,6.22,2,9,1
+599,10999, realme 5 128GB ,realme,24,Qualcomm Snapdragon 665,4,128,5000,4,1,6.5,2,9,1
+600,10990, OPPO A5s 64GB ,OPPO,21,Mediatek Helio P35,4,64,4230,2,1,6.2,2,8,1
+601,10758, vivo U10 64GB ,vivo,27,Qualcomm Snapdragon 665,4,64,5000,3,1,6.35,2,9,1
+602,10299, Xiaomi Redmi Note 8 32GB ,Xiaomi,28,Qualcomm Snapdragon 665,3,32,4000,4,1,6.3,2,9,1
+603,9999, realme 5 64GB ,realme,24,Qualcomm Snapdragon 665,4,64,5000,4,1,6.5,2,9,1
+604,9999, Motorola One Macro ,Motorola,17,Mediatek Helio P70,4,64,4000,3,1,6.2,2,9,1
+605,9999, Samsung Galaxy M30 32GB ,Samsung,25,Exynos 7904,3,32,5000,3,1,6.4,2,9,1
+606,9999, realme 3 4GB RAM ,realme,24,Mediatek Helio P70,4,64,4230,2,1,6.2,2,9,1
+607,9999, Alcatel 3X ,Alcatel,2,Mediatek MT6739 ,3,32,3000,1,0,5.7,1,7,1
+608,9990, OPPO A5 64GB ,OPPO,21,Qualcomm Snapdragon 450,4,64,4230,2,1,6.2,2,8,1
+609,9969, Xiaomi Redmi Y3 64GB ,Xiaomi,28,Qualcomm Snapdragon 632,4,64,4000,2,1,6.26,2,9,1
+610,9799, vivo Y12 64GB ,vivo,27,Mediatek Helio P22,3,64,5000,3,1,6.35,2,9,1
+611,9795, realme 3i 64GB ,realme,24,Mediatek Helio P60,4,64,4230,2,1,6.22,2,9,1
+612,9699, LG W30 ,LG,15,Mediatek Helio P22,3,32,4000,3,1,6.26,2,9,1
+613,9499, Samsung Galaxy A10s 3GB RAM ,Samsung,25,Mediatek Helio P22,3,32,4000,2,1,6.2,2,9,1
+614,9490, OPPO A3s 64GB ,OPPO,21,Qualcomm Snapdragon 450,4,64,4230,2,1,6.2,2,8,1
+615,9490, vivo U10 3GB 64GB ,vivo,27,Qualcomm Snapdragon 665,3,64,5000,3,1,6.35,2,9,1
+616,9445, realme U1 3GB RAM ,realme,24,Mediatek Helio P70,3,64,3500,2,1,6.3,2,8,1
+617,8999, 10.or G2 4GB RAM ,10.or,1,Qualcomm Snapdragon 636,4,64,5000,2,1,6.18,2,8,1
+618,8999, Lenovo K10 Plus ,Lenovo,14,Qualcomm Snapdragon 632,4,64,4050,3,1,6.22,2,9,1
+619,8999, Infinix S5 ,Infinix,13,Mediatek Helio P22,4,64,4000,3,1,6.6,2,9,1
+620,8999, Xiaomi Redmi Note 7S 32GB ,Xiaomi,28,Qualcomm Snapdragon 660,3,32,4000,2,1,6.3,2,9,1
+621,8900, OPPO A5S 3GB RAM ,OPPO,21,Mediatek Helio P35,3,32,4230,2,1,6.2,2,8,1
+622,8499, Huawei Honor 10 Lite 3GB RAM ,Huawei,12,HiSilicon Kirin 710,3,32,3400,2,1,6.21,2,9,1
+623,8450, vivo Y91 32GB ,vivo,27,Qualcomm Snapdragon 439,3,32,4030,2,1,6.22,2,8,1
+624,7999, LG W10 ,LG,15,Mediatek Helio P22,3,32,4000,2,1,6.19,2,9,1
+625,7999, Xiaomi Redmi 7 3GB RAM ,Xiaomi,28,Qualcomm Snapdragon 632,3,32,4000,2,1,6.26,2,9,1
+627,7499, Coolpad Cool 5 ,Coolpad,7,Mediatek Helio P22,4,64,4000,2,1,6.22,2,9,1
+628,6999, Xiaomi Redmi 8A 3GB RAM ,Xiaomi,28,Qualcomm Snapdragon 439,3,32,5000,1,1,6.2,2,9,1
+629,6999, realme C2 3GB RAM ,realme,24,Mediatek Helio P22,3,32,4000,2,1,6.1,2,9,1
+630,6999, Lenovo A6 Note ,Lenovo,14,Mediatek Helio P22,3,32,4000,2,1,6.09,2,9,1
+631,6995, Nokia 6.1 Plus 6GB RAM ,Nokia,18,Qualcomm Snapdragon 636,6,64,3060,2,1,5.8,2,8,1
+632,6990, vivo Y91i 32GB ,vivo,27,Mediatek Helio P22,2,32,4030,1,1,6.22,2,8,1
+633,6669, Nokia 3.2 16GB ,Nokia,18,Qualcomm Snapdragon 429,2,16,4000,1,1,6.26,2,9,1
+635,6499, realme C2 2GB RAM ,realme,24,Mediatek Helio P22,2,32,4000,2,1,6.1,2,9,1
+636,6139, Nokia 2.2 32GB ,Nokia,18,Mediatek Helio A22,3,32,3000,1,1,5.71,2,9,1
+637,5999, Coolpad Cool 3 Plus ,Coolpad,7,Mediatek Helio A22,2,16,3000,1,1,5.71,2,9,1
+638,5999, Coolpad Cool 3 Plus 32GB ,Coolpad,7,Mediatek Helio A22,3,32,3000,1,1,5.71,2,9,1
+639,5465, Xiaomi Redmi 7A 32GB ,Xiaomi,28,Qualcomm Snapdragon 439,2,32,4000,1,1,5.45,2,9,1
+640,4987, Nokia 2.2 ,Nokia,18,Mediatek Helio A22,2,16,3000,1,1,5.71,2,9,1
+641,4290, Xiaomi Redmi Go 16GB ,Xiaomi,28,Qualcomm Snapdragon 425 ,1,16,3000,1,1,5,2,8,1
